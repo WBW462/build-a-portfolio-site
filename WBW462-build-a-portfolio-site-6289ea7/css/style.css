@@ -40,6 +40,9 @@ h3 {
     margin-left: 10px;
     font-size: 30px;
 }
+.direction {
+    text-align: center;
+}
 a {
-    color: #EF0FA8;
+    color: #62629d;
 }
